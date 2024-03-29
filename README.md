@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Edwin! <br/><a href="https://github.com/Edwinccn/">Programmer</a>, <a href="https://www.linkedin.com/in/edwin-c-2ab41a13/">Cybersecurity Professional</a>
 
-<!--
-**Edwinccn/Edwinccn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
+- <b>PowerShell</b>
+  - [Active Directory Bulk User Creation] 
+  - [FIM (File Integrity Monitor)] 
+- <b>Python</b>
+  - [Password Hacker]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Cybersecurity Labs: </h2>
+- <b>Microsoft Azure</b>
+  - [SOC and Honeynet] 
+  - [Vulnerability Management with Nessus] 
