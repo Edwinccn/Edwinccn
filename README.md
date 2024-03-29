@@ -3,11 +3,14 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>PowerShell</b>  
   - [Active Directory Bulk User Creation]  
+
   - [FIM (File Integrity Monitor)]  
+
 - <b>Python</b>  
   - [Password Hacker]
 
 <h2>👨‍💻 Cybersecurity Labs: </h2>
 - <b>Microsoft Azure</b>  
   - [SOC and Honeynet]  
+
   - [Vulnerability Management with Nessus]
