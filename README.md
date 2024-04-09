@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Labs: </h2>
 
-<b>Microsoft Azure</b>  
+<b>Cloud Based</b>  
 <ul>
   <li><a href="https://github.com/Edwinccn/Azure-SOC-Lab/blob/main/README.md">Azure SOC and Honeynet</li> 
 </ul>
