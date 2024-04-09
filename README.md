@@ -7,7 +7,7 @@
   <li><a href="https://github.com/Edwinccn/Azure-SOC-Lab/blob/main/README.md">Azure SOC and Honeynet</li> 
 </ul>
 
-<b>Python Projects</b>
+<b>Python</b>
 <ul>
   <li>Password Cracker</li>
 </ul> 
